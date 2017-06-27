@@ -1,0 +1,17 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "proyecto realizado para uso personal",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-connect": "^5.0.0"
+  },
+  "devDependencies": {
+    "gulp-connect": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ricardo arturo castro quintero",
+  "license": "ISC"
+}
